@@ -33,7 +33,7 @@
         <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
       <img src="https://iconape.com/wp-content/files/sh/51404/png/c--4.png" alt="cs" width="40" height="40"/>
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-        <img src="https://static-00.iconduck.com/assets.00/archlinux-icon-512x512-4qh8bdwi.png" alt="arch" width="40" height="40"/>
+        <img src="http://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" alt="arch" width="40" height="40"/>
     </a>
   <a href="https://artixlinux.org/" targer="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/30185700?s=200&v=4" alt="artix" width="40" height="40"/>
